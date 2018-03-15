@@ -15,7 +15,7 @@ Prometheus
 Grafana
 
 ## Ansible UI
-[https://github.com/ansible-semaphore/semaphore](semaphore)
+[https://github.com/ansible-semaphore/semaphore](semaphore)   
 [https://github.com/alaxli/ansible_ui](ansible_ui)
 
 ## ChatOps
