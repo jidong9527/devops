@@ -20,3 +20,11 @@ Grafana
 
 ## ChatOps
 Mattermost
+
+## Markdown编辑器
+https://www.typora.io  开源，跨平台，快捷键
+
+## shell
+oh-my-zsh
+http://ohmyz.sh/
+
